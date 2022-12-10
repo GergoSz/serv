@@ -2,31 +2,31 @@
     "manufacturers": [
       {
         "id": 1,
-        "name": "Nan",
-        "zipcode": 1083,
-        "city": "Budapest",
-        "road": "Népker út, 24"
+        "name": "BMW",
+        "zipcode": 1916,
+        "city": "Munich",
+        "road": "Germany"
       },
       {
         "id": 2,
-        "name": "Valósáh Só Öregotthon",
-        "zipcode": 1074,
-        "city": "Budapest",
-        "road": "Kertész János utca, 137"
+        "name": "Renault",
+        "zipcode": 1898,
+        "city": "Boulogne-Billancourt",
+        "road": "France"
       },
       {
         "id": 3,
-        "name": "Bíboros Pihenő-Otthon",
-        "zipcode": 3300,
-        "city": "Eger",
-        "road": "Nagy Károly tér, 76"
+        "name": "Nissan",
+        "zipcode": 1933,
+        "city": "Yokohama, Kanagawa",
+        "road": "Japan"
       },
       {
         "id": 4,
-        "name": "Tételes Bérletes Idősek Otthona",
-        "zipcode": 2553,
-        "city": "Zagrádifi",
-        "road": "Tébolykert, 1/I. emelet 107"
+        "name": "Ford",
+        "zipcode": 1903,
+        "city": " Detroit, Michigan",
+        "road": "United States"
       }
     ]
   }
